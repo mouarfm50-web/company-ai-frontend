@@ -1,6 +1,4 @@
-fastapi
-uvicorn
-openai
-supabase
-python-dotenv
-pydantic
+streamlit
+requests
+pypdf
+python-docx
